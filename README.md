@@ -5,6 +5,7 @@ jVim
 
 TODO
 ====
-stylus syntax for less/sass/scss
-stylus syntax: /* */
-"cw - copy word
+- syntax for less/sass/scss
+- stylus syntax: /* */
+- cw - copy current word
+- vnoremap navigate
