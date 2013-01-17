@@ -1,4 +1,4 @@
-let &runtimepath=&runtimepath . ',' . '~/work/git/jVim'
+"let &runtimepath=&runtimepath . ',' . '~/work/git/jVim'
 autocmd VimEnter * silent :!xmodmap ~/work/git/jVim/.Xmodmap
 
 "noremap <F12> :set lines=52 columns=142<cr>
